@@ -1,0 +1,22 @@
+html {
+    background-color: #F3CA52;
+}
+img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+h1 {
+    color: #0A6847;
+}
+h4 {
+    color: #0A6847;
+}
+p {
+    color: #0A6847;
+}
+button {
+    background-color: #F3CA52;
+    border-radius: 30px;
+    color: #0A6847;
+}
